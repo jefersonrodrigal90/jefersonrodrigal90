@@ -29,9 +29,7 @@ My focus is on **turning ideas into functional systems**, applying **best develo
 **Core Skills:**
 - Python (Automation, APIs, Web, Data)
 - Django / Flask / FastAPI  
-- HTML / CSS / JavaScript  
-- React / Node.js  
-- Databases: MySQL, PostgreSQL, SQLite  
+- Databases: PostgreSQL, SQLite  
 - Git / GitHub / Docker / Linux  
 
 ---
