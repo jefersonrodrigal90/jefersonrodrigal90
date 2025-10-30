@@ -61,3 +61,5 @@ I’m currently looking for opportunities where I can **apply my Python expertis
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+![Image](https://github.com/user-attachments/assets/6ba925e2-f6df-43a6-9487-cda78c7355f5
